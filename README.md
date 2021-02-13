@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://puzzled-joke.surge.sh/}">
+    <a href="https://puzzled-joke.surge.sh/">
       Demo
     </a>
     <span> | </span>
