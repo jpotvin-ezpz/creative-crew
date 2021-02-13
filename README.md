@@ -59,7 +59,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [decChallenged Discord:  Help Section](https://devchallenge.io)
+- [devChallenges Discord:  Help Section](https://devchallenge.io)
 - [Superhero Layout](https://antonball.medium.com/superhero-layout-staggered-css-grid-29430df9520)
 
 ## Contact
