@@ -1,0 +1,22 @@
+{
+  "name": "my-team-page-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpotvin-ezpz/creative-crew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpotvin-ezpz/creative-crew/issues"
+  },
+  "homepage": "https://github.com/jpotvin-ezpz/creative-crew#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
